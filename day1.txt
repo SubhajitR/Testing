@@ -1,0 +1,12 @@
+working on others' project:
+
+1. fork the project (take it to your own github account)
+
+2. copy the repo link from clone/download option
+
+3. open terminal,specify the location where you want to store the repo
+
+4. type --- git clone <repo link>
+
+
+abcd
